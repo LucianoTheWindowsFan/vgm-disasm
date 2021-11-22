@@ -1272,7 +1272,7 @@
 1e7c: dw $0fcd
 1e7e: dw $10be
 
-1e80: db $2a,$56,$65,$72,$20,$53,$31,$2e,$32,$30,$2a
+1e80: db "*Ver S1.20*"
 
 1e8b: e8 aa     mov   a,#$aa
 1e8d: c5 f4 00  mov   $00f4,a
